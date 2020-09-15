@@ -1,3 +1,12 @@
+
+/*
+ *                                                  _____________ ___ 
+ *   readability.c                                 / ___/ __/ __// _ \
+ *                                                / /___\ \/__ \/ // /
+ *   By: dhalley <dhalley@null.net>               \___/___/____/\___/ 
+ *                                                                    
+ */
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

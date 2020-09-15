@@ -1,3 +1,12 @@
+
+/*
+ *                                                  _____________ ___ 
+ *   cash.c                                        / ___/ __/ __// _ \
+ *                                                / /___\ \/__ \/ // /
+ *   By: dhalley <dhalley@null.net>               \___/___/____/\___/ 
+ *                                                                    
+ */
+
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
